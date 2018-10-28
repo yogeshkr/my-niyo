@@ -1,0 +1,11 @@
+:host{
+  margin-top: 1rem;
+  display: block;
+}
+.info-text{
+  text-align: center;
+}
+mat-card{
+  max-width:80%;
+  margin: auto;
+}
